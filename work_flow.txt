@@ -1,0 +1,2 @@
+install composer
+connected to PHP MyAdmin using xaamp successfully
